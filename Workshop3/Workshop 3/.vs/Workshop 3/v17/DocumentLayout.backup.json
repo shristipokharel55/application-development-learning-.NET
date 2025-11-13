@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|c:\\shristi pokharel\\3rd year\\1st sem\\application development\\workshops\\workshop3\\workshop 3\\workshop 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|solutionrelative:workshop 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|c:\\shristi pokharel\\3rd year\\1st sem\\application development\\workshops\\workshop3\\workshop 3\\workshop 3\\task 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|solutionrelative:workshop 3\\task 6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|c:\\shristi pokharel\\3rd year\\1st sem\\application development\\workshops\\workshop3\\workshop 3\\workshop 3\\task 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|solutionrelative:workshop 3\\task 5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|c:\\shristi pokharel\\3rd year\\1st sem\\application development\\workshops\\workshop3\\workshop 3\\workshop 3\\task 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|solutionrelative:workshop 3\\task 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|c:\\shristi pokharel\\3rd year\\1st sem\\application development\\workshops\\workshop3\\workshop 3\\workshop 3\\task 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|solutionrelative:workshop 3\\task 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|c:\\shristi pokharel\\3rd year\\1st sem\\application development\\workshops\\workshop3\\workshop 3\\workshop 3\\task 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|solutionrelative:workshop 3\\task 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|c:\\shristi pokharel\\3rd year\\1st sem\\application development\\workshops\\workshop3\\workshop 3\\workshop 3\\task 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19DA24C-C60F-4B9D-A85C-CD4E8C7BE682}|Workshop 3\\Workshop 3.csproj|solutionrelative:workshop 3\\task 3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task 6.cs",
+              "DocumentMoniker": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 6.cs",
+              "RelativeDocumentMoniker": "Workshop 3\\Task 6.cs",
+              "ToolTip": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 6.cs",
+              "RelativeToolTip": "Workshop 3\\Task 6.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:19:34.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task 5.cs",
+              "DocumentMoniker": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 5.cs",
+              "RelativeDocumentMoniker": "Workshop 3\\Task 5.cs",
+              "ToolTip": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 5.cs",
+              "RelativeToolTip": "Workshop 3\\Task 5.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:19:31.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task 4.cs",
+              "DocumentMoniker": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 4.cs",
+              "RelativeDocumentMoniker": "Workshop 3\\Task 4.cs",
+              "ToolTip": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 4.cs",
+              "RelativeToolTip": "Workshop 3\\Task 4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:19:27.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task 3.cs",
+              "DocumentMoniker": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 3.cs",
+              "RelativeDocumentMoniker": "Workshop 3\\Task 3.cs",
+              "ToolTip": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 3.cs",
+              "RelativeToolTip": "Workshop 3\\Task 3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:19:19.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task 2.cs",
+              "DocumentMoniker": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 2.cs",
+              "RelativeDocumentMoniker": "Workshop 3\\Task 2.cs",
+              "ToolTip": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 2.cs",
+              "RelativeToolTip": "Workshop 3\\Task 2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:19:08.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task 1.cs",
+              "DocumentMoniker": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 1.cs",
+              "RelativeDocumentMoniker": "Workshop 3\\Task 1.cs",
+              "ToolTip": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Task 1.cs",
+              "RelativeToolTip": "Workshop 3\\Task 1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:17:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Program.cs",
+              "RelativeDocumentMoniker": "Workshop 3\\Program.cs",
+              "ToolTip": "C:\\Shristi Pokharel\\3rd Year\\1st Sem\\Application Development\\Workshops\\Workshop3\\Workshop 3\\Workshop 3\\Program.cs",
+              "RelativeToolTip": "Workshop 3\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:15:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

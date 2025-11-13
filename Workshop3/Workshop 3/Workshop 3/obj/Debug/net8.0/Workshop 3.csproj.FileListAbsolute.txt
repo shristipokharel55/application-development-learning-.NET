@@ -1,0 +1,14 @@
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\bin\Debug\net8.0\Workshop 3.exe
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\bin\Debug\net8.0\Workshop 3.deps.json
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\bin\Debug\net8.0\Workshop 3.runtimeconfig.json
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\bin\Debug\net8.0\Workshop 3.dll
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\bin\Debug\net8.0\Workshop 3.pdb
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\Workshop 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\Workshop 3.AssemblyInfoInputs.cache
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\Workshop 3.AssemblyInfo.cs
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\Workshop 3.csproj.CoreCompileInputs.cache
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\Workshop 3.dll
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\refint\Workshop 3.dll
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\Workshop 3.pdb
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\Workshop 3.genruntimeconfig.cache
+C:\Shristi Pokharel\3rd Year\1st Sem\Application Development\Workshops\Workshop3\Workshop 3\Workshop 3\obj\Debug\net8.0\ref\Workshop 3.dll
