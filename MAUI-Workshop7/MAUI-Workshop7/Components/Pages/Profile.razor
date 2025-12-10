@@ -1,0 +1,28 @@
+﻿@* Task 3: Use Variables – Student Profile *@
+
+@page "/studentprofile"
+
+<div style="text-align:center; margin-top:20px;">
+
+    <!-- Student Photo -->
+    <img src="@photoPath" alt="Student Photo"
+         style="width:150px; height:150px; border-radius:50%; object-fit:cover;" />
+
+    <!-- Student Name -->
+    <h2>@studentName</h2>
+
+    <!-- Course Name -->
+    <p><strong>Course:</strong> @courseName</p>
+
+    <!-- Batch Year -->
+    <p><strong>Batch Year:</strong> @batchYear</p>
+
+</div>
+
+@code {
+    // Storing static values in variables
+    string photoPath = "images/student.jpeg"; 
+    string studentName = "Shristi Pokharel";
+    string courseName = ".NET MAUI Hybrid Training";
+    string batchYear = "2025";
+}

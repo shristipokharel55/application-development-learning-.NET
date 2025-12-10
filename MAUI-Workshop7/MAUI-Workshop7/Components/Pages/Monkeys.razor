@@ -1,0 +1,49 @@
+﻿@page "/monkeys"
+
+<h3>Monkeys</h3>
+
+@foreach (var m in _monkey)
+{
+    <div style="margin-bottom:20px;">
+        <h4>@m.Name</h4>
+        <p>@m.Location</p>
+        @* <img src="@m.Image" style="width:600px;height:auto;" /> *@
+    </div>
+}
+
+@code {
+    private class Monkey
+    {
+        public string Name { get; set; }
+        public string Location { get; set; }
+        public string Image { get; set; }
+    }
+
+    private Monkey[] _monkey = new Monkey[]
+    {
+        new Monkey
+        {
+            Name = "Lion Tailed Macaque",
+            Location = "Western Ghats, India",
+            Image = "images/monkeys/lion_tailed_macaque.jpg"
+        },
+        new Monkey
+        {
+            Name = "Golden Snub-Nosed Monkey",
+            Location = "Central and Southwest China",
+            Image = "images/monkeys/golden_snub_nosed_monkey.jpg"
+        },
+        new Monkey
+        {
+            Name = "Proboscis Monkey",
+            Location = "Borneo, Southeast Asia",
+            Image = "images/monkeys/proboscis_monkey.jpg"
+        },
+        new Monkey
+        {
+            Name = "Japanese Macaque",
+            Location = "Japan",
+            Image = "images/monkeys/japanese_macaque.jpg"
+        }
+    };
+}
